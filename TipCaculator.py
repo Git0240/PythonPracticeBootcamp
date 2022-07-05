@@ -9,3 +9,5 @@ each_person_pay = round((total /5),2)
 each_person_pay = "{:.2f}".format(each_person_pay)
 print(f"Each person should pay: {each_person_pay}")
 
+# Learn Python Day 1  and Day 2
+
